@@ -1,0 +1,10 @@
+{
+  "name": "javascript-prerequisites",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "part1": "node part1.js",
+    "start": "node index.js"
+  }
+}
